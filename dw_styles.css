@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+p 		{color:#000;
+		 font-family:"Georgia";
+		 size:12;
+		 }
+body	{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	}
+
+html { 
+	background: url(walkincloset3.jpg) no-repeat fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+} 
+.content {
+	width: 950px;
+	background: #F8F8F8;
+	margin: 0 auto;
+	opacity: 0.92;
+	border: 2px none #595353;
+}
+.redhead {  
+	font-size: 16pt;
+	color:#a40e0e;
+	font-weight: bold;
+}    
+
+.subtable {
+	color: #595353;
+	font-variant: small-caps;
+	font-size: 14pt;
+    }
